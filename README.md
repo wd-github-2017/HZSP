@@ -1,5 +1,7 @@
 # Essay Evaluation System: HZSP (Hanyu Zuowen Shuiping Pingjia)
-[中文]() [日本語]()
+
+[中文](https://github.com/wd-github-2017/HZSP/blob/main/README_ZH.md) [日本語](https://github.com/wd-github-2017/HZSP/blob/main/README_JP.md)
+
 This project demonstrates the working principles of a web-based essay evaluation system powered by large language models (LLMs).
 
 ## Features
