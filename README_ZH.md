@@ -5,7 +5,7 @@
 - 代码极简，适于理解原理
 - 支持流式输出，实时显示评价结果
 - 默认基于OpenAI SDK (稍加修改即可切换至其他模型，例如可参考[DeepSeek](https://api-docs.deepseek.com/zh-cn/))。也可使用本地模型，参考[Transformers](https://huggingface.co/docs/transformers/index)。
-- 基于prompt的高度自定义评价维度(app.py中修改)
+- 基于LLMs的高度自定义评价维度，默认评价汉语作文，通过在app.py中简单修改prompt即可实现对英语作文、日语作文的修改。
 - 前端和输出语言的多语言支持，多种浏览器比例。
 
 ## 使用说明
