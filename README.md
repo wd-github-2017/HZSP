@@ -1,4 +1,6 @@
-# Essay Evaluation System: HZSP (Hanyu Zuowen Shuiping Pingjia)
+# Essay Evaluation System: HZSP 
+
+(Hanyu Zuowen Shuiping Pingjia)
 
 [中文](https://github.com/wd-github-2017/HZSP/blob/main/README_ZH.md) [日本語](https://github.com/wd-github-2017/HZSP/blob/main/README_JP.md)
 
